@@ -1,1 +1,1 @@
-# chess-up.github.io
+# https://chessmeister.github.io
